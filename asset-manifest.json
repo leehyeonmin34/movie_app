@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/leehyeonmin34.github.io/movie_app_2020/static/css/main.66b5e92f.chunk.css",
-    "main.js": "/leehyeonmin34.github.io/movie_app_2020/static/js/main.7aa45523.chunk.js",
-    "main.js.map": "/leehyeonmin34.github.io/movie_app_2020/static/js/main.7aa45523.chunk.js.map",
-    "runtime-main.js": "/leehyeonmin34.github.io/movie_app_2020/static/js/runtime-main.777226fa.js",
-    "runtime-main.js.map": "/leehyeonmin34.github.io/movie_app_2020/static/js/runtime-main.777226fa.js.map",
-    "static/js/2.838fa3ab.chunk.js": "/leehyeonmin34.github.io/movie_app_2020/static/js/2.838fa3ab.chunk.js",
-    "static/js/2.838fa3ab.chunk.js.map": "/leehyeonmin34.github.io/movie_app_2020/static/js/2.838fa3ab.chunk.js.map",
-    "index.html": "/leehyeonmin34.github.io/movie_app_2020/index.html",
-    "precache-manifest.ddceb2766ec819035f64a82725be7114.js": "/leehyeonmin34.github.io/movie_app_2020/precache-manifest.ddceb2766ec819035f64a82725be7114.js",
-    "service-worker.js": "/leehyeonmin34.github.io/movie_app_2020/service-worker.js",
-    "static/css/main.66b5e92f.chunk.css.map": "/leehyeonmin34.github.io/movie_app_2020/static/css/main.66b5e92f.chunk.css.map",
-    "static/js/2.838fa3ab.chunk.js.LICENSE.txt": "/leehyeonmin34.github.io/movie_app_2020/static/js/2.838fa3ab.chunk.js.LICENSE.txt"
+    "main.css": "/leehyeonmin34.github.io/movie_app/static/css/main.66b5e92f.chunk.css",
+    "main.js": "/leehyeonmin34.github.io/movie_app/static/js/main.7aa45523.chunk.js",
+    "main.js.map": "/leehyeonmin34.github.io/movie_app/static/js/main.7aa45523.chunk.js.map",
+    "runtime-main.js": "/leehyeonmin34.github.io/movie_app/static/js/runtime-main.9934e879.js",
+    "runtime-main.js.map": "/leehyeonmin34.github.io/movie_app/static/js/runtime-main.9934e879.js.map",
+    "static/js/2.838fa3ab.chunk.js": "/leehyeonmin34.github.io/movie_app/static/js/2.838fa3ab.chunk.js",
+    "static/js/2.838fa3ab.chunk.js.map": "/leehyeonmin34.github.io/movie_app/static/js/2.838fa3ab.chunk.js.map",
+    "index.html": "/leehyeonmin34.github.io/movie_app/index.html",
+    "precache-manifest.afed5c2da5987082d0d41c9eafff4e64.js": "/leehyeonmin34.github.io/movie_app/precache-manifest.afed5c2da5987082d0d41c9eafff4e64.js",
+    "service-worker.js": "/leehyeonmin34.github.io/movie_app/service-worker.js",
+    "static/css/main.66b5e92f.chunk.css.map": "/leehyeonmin34.github.io/movie_app/static/css/main.66b5e92f.chunk.css.map",
+    "static/js/2.838fa3ab.chunk.js.LICENSE.txt": "/leehyeonmin34.github.io/movie_app/static/js/2.838fa3ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.777226fa.js",
+    "static/js/runtime-main.9934e879.js",
     "static/js/2.838fa3ab.chunk.js",
     "static/css/main.66b5e92f.chunk.css",
     "static/js/main.7aa45523.chunk.js"
